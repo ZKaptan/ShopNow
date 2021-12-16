@@ -11,4 +11,4 @@ router.route("/:id").get(getProductById);
 
 export default router;
 
-let x = 12;
+let x = 10;
